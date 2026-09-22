@@ -8,6 +8,7 @@ El programa cumple con las siguientes historias de usuario:
 - Ver la lista de tareas pendientes.
 - Marcar una tarea específica como completada.
 - Eliminar una tarea de la lista.
+- Filtrar las tareas por prioridad.
 
 ## Cómo ejecutar el programa
 
